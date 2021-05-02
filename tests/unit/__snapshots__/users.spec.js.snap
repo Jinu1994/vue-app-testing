@@ -1,0 +1,252 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Users.vue List users 1`] = `
+<div class="container">
+  <p>Users List</p>
+  <div class="row">
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Leanne Graham
+            </div>
+            <div class="v-list-item__subtitle">Sincere@april.biz</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            LG
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Ervin Howell
+            </div>
+            <div class="v-list-item__subtitle">Shanna@melissa.tv</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            EH
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Clementine Bauch
+            </div>
+            <div class="v-list-item__subtitle">Nathan@yesenia.net</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            CB
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Patricia Lebsack
+            </div>
+            <div class="v-list-item__subtitle">Julianne.OConner@kory.org</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            PL
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Chelsey Dietrich
+            </div>
+            <div class="v-list-item__subtitle">Lucio_Hettinger@annie.ca</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            CD
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Mrs. Dennis Schulist
+            </div>
+            <div class="v-list-item__subtitle">Karley_Dach@jasper.info</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            MD
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Kurtis Weissnat
+            </div>
+            <div class="v-list-item__subtitle">Telly.Hoeger@billy.biz</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            KW
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Nicholas Runolfsdottir V
+            </div>
+            <div class="v-list-item__subtitle">Sherwood@rosamond.me</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            NR
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Glenna Reichert
+            </div>
+            <div class="v-list-item__subtitle">Chaim_McDermott@dana.io</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            GR
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 col-2">
+      <div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+        <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+          <div class="v-list-item__content">
+            <div class="v-list-item__title text-h5 mb-1">
+              Clementina DuBuque
+            </div>
+            <div class="v-list-item__subtitle">Rey.Padberg@karina.biz</div>
+          </div>
+          <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+            CD
+          </div>
+        </div>
+        <div class="v-card__actions"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+          <div role="dialog" class="v-dialog__container">
+            <!---->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Users.vue display user details 1`] = `
+<div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+  <div tabindex="-1" class="v-list-item v-list-item--three-line theme--light">
+    <div class="v-list-item__content">
+      <div class="v-list-item__title text-h5 mb-1">
+        Leanne Graham
+      </div>
+      <div class="v-list-item__subtitle">Sincere@april.biz</div>
+    </div>
+    <div class="v-avatar v-list-item__avatar grey" style="height: 70px; min-width: 70px; width: 70px;">
+      LG
+    </div>
+  </div>
+  <div class="v-card__actions">
+    <div role="dialog" class="v-dialog__container"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red lighten-2" role="button" aria-haspopup="true" aria-expanded="false"><span class="v-btn__content">
+          View Posts
+        </span></button>
+      <!---->
+    </div>
+  </div>
+</div>
+`;

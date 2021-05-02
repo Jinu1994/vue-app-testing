@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Posts.vue List Posts for a user 1`] = `
+<div class="container">
+  <div class="row"></div>
+</div>
+`;
+
+exports[`Posts.vue display post details 1`] = `
+<div class="mx-auto v-card v-sheet theme--light" style="max-width: 344px;">
+  <div class="v-card__text">
+    <div class="post-title pa-1">
+      voluptatem eligendi optio
+    </div>
+    <div class="text--primary post-body">
+      fuga et accusamus dolorum perferendis illo voluptas
+      non doloremque neque facere
+      ad qui dolorum molestiae beatae
+      sed aut voluptas totam sit illum
+    </div>
+  </div>
+  <div class="v-card__actions"><i aria-hidden="true" class="v-icon notranslate mdi mdi-message-text theme--light blue--text text--darken-2" style="font-size: 36px;"></i></div>
+</div>
+`;
